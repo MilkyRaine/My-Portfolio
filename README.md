@@ -1,1 +1,3 @@
-# My-Portfolio
+- I couldnt add modak as the font style since it did not look appropriate on my website.
+- I couldnt move the flowers logo to the left corner
+- There wasnt much time left to make the contact info interactive
